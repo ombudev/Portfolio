@@ -3,7 +3,7 @@
 //Fetching Values from URL
 $php_name 		= $_POST['ajax_name'];
 $php_email 		= $_POST['ajax_email'];
-$php_emailto	= $_POST['ajax_emailto'];
+$php_emailto	= $_POST['hello@onealombu.xyz'];
 $php_message 	= $_POST['ajax_message'];
 
 
